@@ -126,7 +126,7 @@ function App() {
           justifyContent="center"
           style={{ marginTop: 20, marginBottom: 20 }}
         >
-          <SocialLinks />
+          <SocialLinks></SocialLinks>
         </Box>
         {/* <Grid2
           container
